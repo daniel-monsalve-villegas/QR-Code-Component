@@ -20,7 +20,7 @@ body {
 	background-color: var(--white);
 	border-radius: 3%;
 	width: 20em;
-	height: 60vh;
+	height: 53vh;
 }
 
 #imgQr {
@@ -47,4 +47,10 @@ section h1 {
 
 section p {
 	color: var(--grayishBlue);
+}
+
+@media (max-width: 375px) {
+	#container {
+		height: 60vh;
+	}
 }

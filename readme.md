@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](../screenshots/2022-10-13-104517_1920x1080_scrot.png")
+![Alt text](./screenshots/2022-10-16-134950_1920x1080_scrot.png)
 ![Alt text](../screenshots/2022-10-13-104526_1920x1080_scrot.png)
 
 
